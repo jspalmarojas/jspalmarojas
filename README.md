@@ -1,13 +1,13 @@
 # Hola, soy Jorge Palma Rojas 👋
 
-🎓 **Ingeniero en Informática** | Estudiante del **Máster Universitario en Inteligencia Artificial (MUIA)** en la **Universidad Politécnica de Madrid (UPM)**  
-📍 Madrid, España  
+**Ingeniero en Informática** | Estudiante del **Máster Universitario en Inteligencia Artificial (MUIA)** en la **Universidad Politécnica de Madrid (UPM)**  
+Madrid, España  
 
 Me apasiona la intersección entre el **Machine Learning**, la **inteligencia artificial aplicada** y el desarrollo de software escalable. Tengo experiencia implementando modelos predictivos, detección de anomalías en grandes volúmenes de datos y conectando modelos fundacionales (LLMs) con aplicaciones de usuario final.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 **Lenguajes:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,6 +32,6 @@ Me apasiona la intersección entre el **Machine Learning**, la **inteligencia ar
 
 ---
 
-### 📬 Conectemos
+### Conectemos
 - **LinkedIn:** [linkedin.com/in/j-palma-r](https://www.linkedin.com/in/j-palma-r/)
 - **Email:** [j.palmarojas@alumnos.upm.es](mailto:j.palmarojas@alumnos.upm.es)
