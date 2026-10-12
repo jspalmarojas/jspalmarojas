@@ -1,4 +1,4 @@
-# Hola, soy Jorge Palma Rojas 👋
+# Hola, soy Jorge!
 
 **Ingeniero en Informática** | Estudiante del **Máster Universitario en Inteligencia Artificial (MUIA)** en la **Universidad Politécnica de Madrid (UPM)**  
 Madrid, España  
